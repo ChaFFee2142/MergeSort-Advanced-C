@@ -3,5 +3,5 @@
 
 Grupa:  
 Volodymyr Boiko  
-__**Anton Krasitskyi**__  
+**Anton Krasitskyi**  
 Mateusz Jarząbek  
