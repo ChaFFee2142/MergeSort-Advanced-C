@@ -3,5 +3,5 @@ Projekt #2
 
 Grupa:  
 Volodymyr Boiko  
-Anton Krasitskyi  
+**Anton Krasitskyi**  
 Mateusz Jarząbek  
