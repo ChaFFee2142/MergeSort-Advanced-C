@@ -1,7 +1,7 @@
-Zaawansowany C#  
-Projekt #2  
+**Zaawansowany C#**  
+**Projekt #2**  
 
 Grupa:  
 Volodymyr Boiko  
-**Anton Krasitskyi**  
+__**Anton Krasitskyi**__  
 Mateusz Jarząbek  
